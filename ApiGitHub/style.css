@@ -151,4 +151,5 @@ td .remove {
     border: none;
     font-size: 2rem;
     color: red;
+    cursor: pointer ;
 }
